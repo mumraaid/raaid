@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+/*style form1-sign up*/
+.fname1{
+	margin-top:20px;
+	margin-left:23%;
+	margin-right:23%;
+	margin-bottom:20px;
+	border-radius: 4%;
+	border:1px dotted #555555!important;
+	background-color:rgba(248,249,251,1.00)!important;
+	width:599px;
+	height:620px;
+}
+.title h4{
+	color:#555555!important;
+	margin-top:10px;
+}
+.title h4:hover{
+	color:rgba(114,1,151,1.00)!important;
+	transition-duration: 1s;
+	cursor: pointer;
+}
+.row{
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:20px;
+}
+.row{
+	font-weight:400;
+}
+.form_image{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-radius:100%;
+	width:100px;
+	height:100px;	
+}
+.row p{
+	margin-right:30px;
+	margin-left:20px;
+}
+.row input{
+	margin-left:20px;
+}
+.input-col{
+	margin-left: auto;
+	margin-right:75px;
+}
+.genderbuttons{
+	margin-right: 100px;
+}
+/*style form2-log in*/
+.fname2{
+	margin-top:20px;
+	border-radius: 4%;
+	border:1px dotted #555555!important;
+	background-color:rgba(248,249,251,1.00)!important;
+	width:500px;
+	height:550px;
+}
+.form1 h4{
+	margin-top:15px;
+}
+.form1{
+	text-align: center;
+	color: #555555!important;
+}
+.form1{
+	border-radius:100%;
+	width:100px;
+	height:100px;
+}
+.form1:hover{
+	cursor: pointer;
+	transition-duration: 1s;
+	color:rgba(114,1,151,1.00)!important;
+}
+.form2{
+	text-align: center;
+	width: 150px;
+	height:50px;
+}
+.form3{
+	text-align: center;
+	width: 450px;
+	height:50px;
+}
+.form4{
+  	text-align: center;
+  	height:150px;
+}
+.form5{
+	text-align: center;
+	color: red;
+	height:100px;
+}
+.forgot_pass{
+	color: red;
+}
+.forgot_pass:hover{
+	color: rgba(114,1,151,1.00)!important;
+}
+.sign:hover{
+	color: rgba(114,1,151,1.00)!important;
+}
+/*Both form1 and form2*/
+.textbox{
+	border:1px dotted;
+	border-radius: 5px;
+}
+.button{
+	background-color: #555555!important;
+	color: white;
+	border-radius:32px;
+	width:100px;
+	height:40px;
+	font-size: 15px;
+}
+.button:hover{
+	transition-duration: 1s!important;
+	background-color:#720197!important;
+}
